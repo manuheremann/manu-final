@@ -2,8 +2,8 @@
   --cinza: #aaa;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
-  --branca: #0f83b8;
-  --luz: rgb(18, 126, 214);
+  --branca: #fafafa;
+  --luz: rgb(249, 252, 255);
   --preto: #8db1c9;
 
 }
@@ -23,7 +23,7 @@ body,html{
 }
 
 .bg{
-  background-image: url('./pexels-ben-mack-5326901.jpg');
+  background-image: url('./Image2.jpg');
   background-repeat: no-repeat;
   background-size:cover;
 }
