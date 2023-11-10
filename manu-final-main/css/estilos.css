@@ -2,8 +2,8 @@
   --cinza: #aaa;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
-  --branca: #045377;
-  --luz: rgb(1, 70, 128);
+  --branca: #b2cbfd;
+  --luz: rgb(249, 252, 255);
   --preto: #8db1c9;
 
 }
@@ -23,7 +23,7 @@ body,html{
 }
 
 .bg{
-  background-image: url('pexels-jimmy-teoh-1010657.jpg');
+  background-image: url('./foto.jpg');
   background-repeat: no-repeat;
   background-size:cover;
 }
